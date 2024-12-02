@@ -1,0 +1,68 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100%;
+    box-sizing: border-box; /*garantir que os filhos não saem da tag pai.*/
+    color: white;
+    background-image: linear-gradient(to top, #000013, #3232f7);
+}
+
+.apresentacao {
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.apresentacao__conteudo__titulo {
+    font-size: 42px;
+    font-family: "Space Grotesk", sans-serif;
+    color: #ffcc00;
+}
+
+.apresentacao__conteudo__subtitulo {
+    font-size: 24px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.apresentacao__conteudo__texto {
+    font-size: 18px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.apresentacao__links__link {
+    background-color: #ffcc00;
+    width: 250px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 18px;
+    padding: 15px 0px;
+    text-decoration: none;
+    color: #1414c9;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight:bold ;
+    margin: 15px 0px;
+}
+
+img {
+    filter: drop-shadow(10px 10px 10px rgba(9, 0, 58, 0.274));
+}
