@@ -5,4 +5,4 @@
 
 <a href="https://gustavobrandaoo.github.io/portfolio-html-css/paginaNatal/" target="_blank">Executar página Feliz Natal</a>
 
-<a href="htps://gustavobrandaoo.github.io/portfolio-html-css/paginaPrimeVideo/" target="_blank">Executar página Prime Video</a>
+<a href="https://gustavobrandaoo.github.io/portfolio-html-css/paginaPrimeVideo/" target="_blank">Executar página Prime Video</a>
