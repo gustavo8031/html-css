@@ -5,4 +5,4 @@
 
 <a href="https://gustavobrandaoo.github.io/portfolio-html-css/paginaNatal/" target="_blank">Executar página Feliz Natal</a>
 
-<a href="https://gustavobrandaoo.github.io/portfolio-html-css/paginaAluraPlus/" target="_blank">Executar página Tela+</a>
+<a href="https://gustavobrandaoo.github.io/portfolio-html-css/paginaAluraPlus/" target="_blank">Executar página Prime Video</a>
